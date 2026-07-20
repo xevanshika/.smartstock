@@ -1,0 +1,15 @@
+{
+    "products": {
+        "101": {
+            "name": "Laptop",
+            "price": 25000.0,
+            "quantity": 50
+        },
+        "102": {
+            "name": "Tablet",
+            "price": 10000.0,
+            "quantity": 35
+        }
+    },
+    "sales": []
+}
